@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "my-python-server": {
+            "command": "d:\\AI\\mcp\\venv\\Scripts\\python.exe",
+            "args": [
+                "d:\\AI\\mcp\\server.py"
+            ]
+        }
+    }
+}
